@@ -21,3 +21,7 @@ Show the yearly unemployment numbers, filtered by age and gender
 Yearly sorted country sales number, font size and colour according to sales value, calculated profit ratio in tooltip
 ![圖片](https://user-images.githubusercontent.com/80243823/129576231-9b9fce74-81d0-4d3a-8fef-ecd26b982757.png)
 ![圖片](https://user-images.githubusercontent.com/80243823/129575826-6b310763-dcbc-454e-b936-61345cd4bfb5.png)
+
+
+
+![image](https://user-images.githubusercontent.com/80243823/129584769-5f5daf23-69c9-4141-9865-f6a91b72d78a.png)
