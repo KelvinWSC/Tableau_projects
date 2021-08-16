@@ -9,6 +9,7 @@ Finding out the top employee of each region in terms of value of sales
 **Time series, aggregation, filters and data format customization**
 
 Show the yearly unemployment numbers, filtered by age and gender
+
 ![image](https://user-images.githubusercontent.com/80243823/129518579-900c7708-bf58-4429-a482-ef2895c74d28.png)
 ![image](https://user-images.githubusercontent.com/80243823/129518679-6419bc85-2f96-4a9e-9dc3-d301f88f2f12.png)
 
