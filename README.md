@@ -34,11 +34,16 @@ Sales performance of all categories and all segments in all countries. Deep blue
 ![image](https://user-images.githubusercontent.com/80243823/129737166-ab59d374-6a74-4457-bcf9-19c3e0cae0c2.png)
 
 
-**Dash board**
+**Dashboard**
 
+This is a dashboard showing Airbnb market in Tokyo.
+The upper is a map showing price average in different areas in Tokyo. 
 ![image](https://user-images.githubusercontent.com/80243823/129584769-5f5daf23-69c9-4141-9865-f6a91b72d78a.png)
 
+You can zoom in and out, and select different room type to be shown.
 ![image](https://user-images.githubusercontent.com/80243823/129739854-3e9cc19c-5c4c-49d2-bc76-04af440b42a5.png)
 
+Lower left is the listing proportion of different room type. You can see "Entire home/apt" is te main supply here.
+Lower right is the averege listed price (in yen) throught the year. "Entire home/apt" has the bargaining power to ask for higher price during the Tokyo Olympics, despite being the largest proportion of supply.
 ![image](https://user-images.githubusercontent.com/80243823/129740078-94c1af9e-1c67-443c-a521-4064ecf1d3a2.png)
 
