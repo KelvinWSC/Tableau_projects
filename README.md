@@ -22,6 +22,18 @@ Yearly sorted country sales number, font size and colour according to sales valu
 ![圖片](https://user-images.githubusercontent.com/80243823/129576231-9b9fce74-81d0-4d3a-8fef-ecd26b982757.png)
 ![圖片](https://user-images.githubusercontent.com/80243823/129575826-6b310763-dcbc-454e-b936-61345cd4bfb5.png)
 
+**Stacked bar chart**
+Stacked bar chart of total sales, segmented by divisions
+![image](https://user-images.githubusercontent.com/80243823/129735790-f5f9fc29-bc0d-47fa-9712-5f6b07415480.png)
 
+
+**Tree maps**
+
+Sales performance of all categories and all segments in all countries. Deep blue areas are the most profitable, while orange areas are concerning business units, as they are generating sales, but aren't making money.
+
+![image](https://user-images.githubusercontent.com/80243823/129737166-ab59d374-6a74-4457-bcf9-19c3e0cae0c2.png)
+
+
+**Dash board**
 
 ![image](https://user-images.githubusercontent.com/80243823/129584769-5f5daf23-69c9-4141-9865-f6a91b72d78a.png)
