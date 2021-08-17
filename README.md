@@ -37,3 +37,8 @@ Sales performance of all categories and all segments in all countries. Deep blue
 **Dash board**
 
 ![image](https://user-images.githubusercontent.com/80243823/129584769-5f5daf23-69c9-4141-9865-f6a91b72d78a.png)
+
+![image](https://user-images.githubusercontent.com/80243823/129739854-3e9cc19c-5c4c-49d2-bc76-04af440b42a5.png)
+
+![image](https://user-images.githubusercontent.com/80243823/129740078-94c1af9e-1c67-443c-a521-4064ecf1d3a2.png)
+
