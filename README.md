@@ -23,6 +23,7 @@ Yearly sorted country sales number, font size and colour according to sales valu
 ![圖片](https://user-images.githubusercontent.com/80243823/129575826-6b310763-dcbc-454e-b936-61345cd4bfb5.png)
 
 **Stacked bar chart**
+
 Stacked bar chart of total sales, segmented by divisions
 ![image](https://user-images.githubusercontent.com/80243823/129735790-f5f9fc29-bc0d-47fa-9712-5f6b07415480.png)
 
@@ -34,7 +35,7 @@ Sales performance of all categories and all segments in all countries. Deep blue
 ![image](https://user-images.githubusercontent.com/80243823/129737166-ab59d374-6a74-4457-bcf9-19c3e0cae0c2.png)
 
 
-**Dashboard**
+##**Dashboard**
 
 This is a dashboard showing Airbnb market in Tokyo.
 The upper is a map showing price average in different areas in Tokyo. 
