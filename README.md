@@ -35,7 +35,7 @@ Sales performance of all categories and all segments in all countries. Deep blue
 ![image](https://user-images.githubusercontent.com/80243823/129737166-ab59d374-6a74-4457-bcf9-19c3e0cae0c2.png)
 
 
-##**Dashboard**
+## **Dashboard**
 
 This is a dashboard showing Airbnb market in Tokyo.
 The upper is a map showing price average in different areas in Tokyo. 
