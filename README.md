@@ -46,7 +46,7 @@ You can zoom in and out, and select different room type to be shown.
 
 Lower left is the room type distribution. You can see "Entire home/apt" is the main supply here.
 
-Lower right is the averege asking price (in yen) throught the year. 
+Lower right is the averege asking price (in yen) throughout the year. 
 
 "Entire home/apt" has the bargaining power to ask for higher price during the Tokyo Olympics, despite being the largest proportion of supply.
 
